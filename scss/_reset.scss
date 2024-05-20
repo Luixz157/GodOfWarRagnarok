@@ -1,0 +1,32 @@
+* {
+    margin: 0 ;
+    padding: 0 ;
+    list-style: none;
+    box-sizing: border-box;
+    outline: 0;
+    font-family: 'Achivo', sans-serif;
+    color: var(--white);
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: #000000;
+}
